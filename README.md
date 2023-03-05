@@ -12,6 +12,9 @@ WebApp untuk mendeteksi kesegaran ikan melalui gambar mata | Senior Project
 >
 > Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
+<details>
+<summary><h3>Modul 1</h3></summary>
+
 ## Nama Produk
 
 FresCis
@@ -99,3 +102,5 @@ Sebuah aplikasi berbasis website yang berfungsi untuk mendeteksi kesegaran ikanm
 **Kelemahan**
 
 - Kepastian kesegaran ikan hanya daripihak eFishery
+
+</details>

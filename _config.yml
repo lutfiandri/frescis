@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
-title: Ecocipe
+title: FresCis
 description: Aplikasi website untuk memprediksi kesegaran ikan menggunakan AI CNN

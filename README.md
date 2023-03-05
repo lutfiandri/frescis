@@ -15,7 +15,7 @@ WebApp untuk mendeteksi kesegaran ikan melalui gambar mata | Senior Project
 > Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
 <details markdown="1">
-<summary><h3>Modul 1</h3></summary>
+<summary><h2>Modul 1</h2></summary>
 
 ## Nama Produk
 
@@ -108,7 +108,7 @@ Sebuah aplikasi berbasis website yang berfungsi untuk mendeteksi kesegaran ikanm
 </details>
 
 <details markdown="1">
-<summary><h3>Modul 2</h3></summary>
+<summary><h2>Modul 2</h2></summary>
 
 ## Metodologi SDLC
 
@@ -116,15 +116,15 @@ Metode SDLC Waterfall
 
 ### Alasan SDLC
 
-Karena metode waterfall memiliki proses pengerjaan yang terurut, sehingga proses pengerjaan dapat terjadwal dengan baik. Selain itu metode waterfall sangat cocok untuk sistem dengan kompleksitas yang rendah.
+Karena metode waterfall memiliki proses pengerjaan yang terurut, sehingga proses pengerjaan dapat terjadwal dengan baik. Selain itu metode waterfall sangat cocok untuk sistem dengan kompleksitas yang rendah
 
 ## Tujuan Produk
 
-Untuk membantu para konsumen untuk memilih antara ikan segar dan tidak segar yang nantinya akan dibeli.
+Untuk membantu para konsumen untuk memilih antara ikan segar dan tidak segar yang nantinya akan dibeli
 
 ## Pengguna Potensial
 
-Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedakan antara ikan yang segar dan tidak segar.
+Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedakan antara ikan yang segar dan tidak segar
 
 ## Use-case Diagram
 
@@ -147,7 +147,9 @@ Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedaka
 
 ![ERD 1](/images/erd-1.png)
 
-- Catatan: meskipun kami menggunakan ERD. Namun, untuk implementasinya, bisa saja kami akan menggunakan non-relational database karena belum ada pertimbangan database yang digunakan untuk saat ini.
+**Catatan:**
+
+- Meskipun kami menggunakan ERD. Namun, untuk implementasinya, bisa saja kami akan menggunakan non-relational database karena belum ada pertimbangan database yang digunakan untuk saat ini
 
 ## Low-Fidelity Wireframe
 

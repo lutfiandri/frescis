@@ -2,7 +2,7 @@
 
 WebApp untuk mendeteksi kesegaran ikan melalui gambar mata | Senior Project
 
-- View github page : https://aulianurfajriyah.github.io/HabitCorner/ 
+- View github page : https://lutfiandri.github.io/frescis/
 
 ## Kelompok FresCis
 

@@ -106,3 +106,56 @@ Sebuah aplikasi berbasis website yang berfungsi untuk mendeteksi kesegaran ikanm
 - Kepastian kesegaran ikan hanya daripihak eFishery
 
 </details>
+
+<details markdown="1">
+<summary><h3>Modul 2</h3></summary>
+
+## Metodologi SDLC
+
+Metode SDLC Waterfall
+
+### Alasan SDLC
+
+Karena metode waterfall memiliki proses pengerjaan yang terurut, sehingga proses pengerjaan dapat terjadwal dengan baik. Selain itu metode waterfall sangat cocok untuk sistem dengan kompleksitas yang rendah.
+
+## Tujuan Produk
+
+Untuk membantu para konsumen untuk memilih antara ikan segar dan tidak segar yang nantinya akan dibeli.
+
+## Pengguna Potensial
+
+Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedakan antara ikan yang segar dan tidak segar.
+
+## Use-case Diagram
+
+![Use Case Diagram 1](/images/usecase-1.png)
+
+![Use Case Diagram 2](/images/usecase-2.png)
+
+## Functional Requirements
+
+| FR                       | Deskripsi                                                                                                                                         |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Login                    | Pengguna bisa melakukan login menggunakan akun google                                                                                             |
+| Register                 | Pengguna bisa melakukan register menggunakan akun google.                                                                                         |
+| Logout                   | Pengguna bisa melakukan logout                                                                                                                    |
+| Prediksi kesegaran ikan  | Pengguna bisa melakukan prediksi kesegaran ikan dengan mengambil gambar mata ikan melalui website (website akan dioptimasi untuk tampilan mobile) |
+| Melihat history prediksi | Pengguna yang telah login bisa melihat daftar prediksi yang pernah ia lakukan. Akan ada filtering dan grouping berdasar hari di fitur ini         |
+| Melihat informasi ikan   | Pengguna bisa melihat informasi-informasi ikan secara umum (untuk bacaan saja)                                                                    |
+
+## Entity Relationship Diagram
+
+![ERD 1](/images/erd-1.png)
+
+- Catatan: meskipun kami menggunakan ERD. Namun, untuk implementasinya, bisa saja kami akan menggunakan non-relational database karena belum ada pertimbangan database yang digunakan untuk saat ini.
+
+## Low-Fidelity Wireframe
+
+![LoFi 1](/images/lofi-1.png)
+![LoFi 2](/images/lofi-2.png)
+
+## Gantt-Chart
+
+![Gantt Chart 1](/images/ganttchart-1.png)
+
+</details>

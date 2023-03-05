@@ -2,6 +2,8 @@
 
 WebApp untuk mendeteksi kesegaran ikan melalui gambar mata | Senior Project
 
+- View github page : https://aulianurfajriyah.github.io/HabitCorner/ 
+
 ## Kelompok FresCis
 
 - Ketua Kelompok: Adhyaksa Zhalifunnas - 20/463586/TK/51578
@@ -12,7 +14,7 @@ WebApp untuk mendeteksi kesegaran ikan melalui gambar mata | Senior Project
 >
 > Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
-<details>
+<details markdown="1">
 <summary><h3>Modul 1</h3></summary>
 
 ## Nama Produk

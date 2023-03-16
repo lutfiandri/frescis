@@ -128,9 +128,9 @@ Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedaka
 
 ## Use-case Diagram
 
-![Use Case Diagram 1](/images/usecase-1.png)
+![Use Case Diagram 1](/docs/images/usecase-1.png)
 
-![Use Case Diagram 2](/images/usecase-2.png)
+![Use Case Diagram 2](/docs/images/usecase-2.png)
 
 ## Functional Requirements
 
@@ -145,7 +145,7 @@ Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedaka
 
 ## Entity Relationship Diagram
 
-![ERD 1](/images/erd-1.png)
+![ERD 1](/docs/images/erd-1.png)
 
 **Catatan:**
 
@@ -153,11 +153,11 @@ Para pembeli dan konsumen ikan, terutama para pembeli yang kurang bisa membedaka
 
 ## Low-Fidelity Wireframe
 
-![LoFi 1](/images/lofi-1.png)
-![LoFi 2](/images/lofi-2.png)
+![LoFi 1](/docs/images/lofi-1.png)
+![LoFi 2](/docs/images/lofi-2.png)
 
 ## Gantt-Chart
 
-![Gantt Chart 1](/images/ganttchart-1.png)
+![Gantt Chart 1](/docs/images/ganttchart-1.png)
 
 </details>

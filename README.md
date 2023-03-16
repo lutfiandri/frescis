@@ -14,6 +14,10 @@ WebApp untuk mendeteksi kesegaran ikan melalui gambar mata | Senior Project
 >
 > Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
+## Repositories
+
+- https://github.com/lutfiandri/frescis-frontend
+
 <details markdown="1">
 <summary><h2>Modul 1</h2></summary>
 
